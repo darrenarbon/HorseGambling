@@ -1,0 +1,18 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.darren.horsegambling"
+    },
+    "cordova-plugin-sqlite-2": {
+      "PACKAGE_NAME": "com.darren.horsegambling"
+    }
+  },
+  "dependent_plugins": {}
+}
